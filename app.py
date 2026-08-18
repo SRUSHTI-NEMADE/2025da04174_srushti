@@ -20,7 +20,7 @@ from sklearn.metrics import (
     confusion_matrix, classification_report
 )
 
-MODEL_DIR = "model"
+MODEL_DIR = ""
 
 MODEL_FILES = {
     "Logistic Regression": ("logistic_regression.pkl", True),
